@@ -1,5 +1,4 @@
 <h1><b>Atividade - Entrevista de emprego</b></h1>
- <h2>Felipe Ladeira</h2>
 <p>Este arquivo foi programado com a utilização dos seguintes softwares. 
 <hr>
 <p><b>Instalação recomendada:</b></p>
@@ -23,12 +22,9 @@
 </p> 
 <hr>
 <p><b>Iniciando o projetogit</b></p>
-<p>clone:<a herf="https://github.com/ladeirass/treino-javascript.git">
+<p>git clone:<a herf="https://github.com/ladeirass/treino-javascript.git">
 <alt=>https://github.com/ladeirass/treino-javascript.git
 </a></p>
 <hr>
 
-<p>Implementação futura</p>
-<p>Colaboradores</p>
-<p>Status</p>
 
